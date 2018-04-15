@@ -7,7 +7,7 @@ Download and install Ganache from http://truffleframework.com/ganache/
 
 Launch Ganache and make sure the RPC Server is listening on localhost:8545
 
-Install all dependencies by typing:
+Clone this repo & install all dependencies by typing:
 ```
 npm install
 
