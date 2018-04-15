@@ -19,8 +19,7 @@ Then run these commands:
 ```
 npm install -g truffle
 npm install -g etherumjs-testrpc
-npm install
-npm build
+truffle migrate
 npm run dev
 
 ```
