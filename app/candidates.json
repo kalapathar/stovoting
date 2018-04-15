@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "name": "Sam",
+    "picture": "app/images/Sam.jpg",
+    "year": 2019,
+    "org": "After Dark Committee Coordinator",
+    "motto": "No Motto"
+  },
+  {
+    "id": 1,
+    "name": "Andrew",
+    "picture": "app/images/Andrew.jpeg",
+    "year": 2020,
+    "org": "Diversity Celebrations Committee Coordinator",
+    "motto": "I’m Here to Serve and Support"
+  },
+  {
+    "id": 2,
+    "name": "Ian",
+    "picture": "app/images/Ian.jpg",
+    "year": 2021,
+    "org": "Environmental Senator",
+    "motto": "We can Achieve Sustainability!"
+  },
+  {
+    "id": 3,
+    "name": "Jack",
+    "picture": "app/images/Jack.jpg",
+    "year": 2021,
+    "org": "Board of Regents Student Committee Coordinator",
+    "motto": "Transparency is Fair You See"
+  },
+  {
+    "id": 4,
+    "name": "Jonah",
+    "picture": "app/images/Jonah.jpg",
+    "year": 2021,
+    "org": "Curriculum Senator",
+    "motto": "No Motto"
+  },
+  {
+    "id": 5,
+    "name": "Mariem",
+    "picture": "app/images/Mariem.jpg",
+    "year": 2020,
+    "org": "Board of Regents Student Committee Coordinator",
+    "motto": "No Motto"
+  },
+  {
+    "id": 6,
+    "name": "Atefeh",
+    "picture": "app/images/Atefeh.jpg",
+    "year": 2020,
+    "org": "Board of Regents Student Committee Coordinator",
+    "motto": "No Motto"
+  }
+]
