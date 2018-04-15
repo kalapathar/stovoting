@@ -1,6 +1,6 @@
 
 ## Block Chain Implementation for Online Voting
-
+Built upon the tutorials from: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 
 ## To run the app:
 Download and install Ganache from http://truffleframework.com/ganache/
