@@ -3,7 +3,7 @@
 Built upon the tutorials from: https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 
 ## To run the app:
-Download and install Ganache from http://truffleframework.com/ganache/
+download and install Ganache from http://truffleframework.com/ganache/
 
 Launch Ganache and make sure the RPC Server is listening on localhost:8545
 
